@@ -38,6 +38,7 @@ Developed by : MOHAMMED SAAJID S
 
 Register no : 212223240093
 
+~~~
 def circulate():
 
     b=a[n:]+a[:n]
@@ -46,7 +47,7 @@ def circulate():
 a=eval(input())
 
 n=int(input())
-
+~~~
 ## Output:
 
 ![Pythonexp1](https://github.com/Confusion7/Circulate-the-values-of-N-variables/assets/141727149/ae1c709e-9b6b-4f30-a755-31fef171e07a)
