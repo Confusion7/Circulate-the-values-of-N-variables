@@ -50,7 +50,8 @@ n=int(input())
 ~~~
 ## Output:
 
-![Pythonexp1](https://github.com/Confusion7/Circulate-the-values-of-N-variables/assets/141727149/ae1c709e-9b6b-4f30-a755-31fef171e07a)
+![pythonexp2](https://github.com/Confusion7/Circulate-the-values-of-N-variables/assets/141727149/eb4b0ff3-feff-4542-997d-14aa6c07e186)
+
 
 
 ## Result:
